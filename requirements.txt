@@ -1,0 +1,28 @@
+# Core Framework
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# OpenAI Integration
+openai==1.57.4
+
+# ElevenLabs Integration
+elevenlabs>=1.5.0
+
+# HTTP Client
+httpx==0.25.2
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# File Upload Support
+python-multipart==0.0.6
+
+# MongoDB Support
+motor>=3.7.1
+pymongo>=4.15.5
+
+# Image Processing
+Pillow>=10.3.0
+
