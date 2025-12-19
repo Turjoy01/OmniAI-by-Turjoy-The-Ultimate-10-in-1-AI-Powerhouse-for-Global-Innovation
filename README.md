@@ -96,6 +96,8 @@ bash
 Copy code
 uvicorn main:app --reload
 Now your OmniAI instance is live and ready to bring the future of AI to your fingertips.
+<img width="740" height="884" alt="image" src="https://github.com/user-attachments/assets/bc6675ce-3f45-4fb9-967c-79f957d26dee" />
+
 
 Why OmniAI by Turjoy?
 OmniAI is built to lead the charge in AI-driven digital transformation, offering an all-in-one solution for businesses, creators, students, and industries worldwide. With 10 powerful core tools, OmniAI empowers you to automate your workflows, create viral social media content, master academic challenges, and break down linguistic barriers, all while maintaining peak performance and scalability.
